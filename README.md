@@ -66,4 +66,4 @@ This code Remake from video [Traversy Media](https://www.youtube.com/watch?v=v2G
 
 Ahmad Zaky
 
-since 2020
+Created code 2020
