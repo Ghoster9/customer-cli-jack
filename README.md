@@ -6,10 +6,6 @@ Cli for manage customers. Uses Mongoose, Commander.js and Inquirer.js
 
 For this use you just need to install it globally and this can be used for those of you who want to create a local Mongodb database. This is a simple cli tool that I created together when I watched YouTube.
 
-### Version
-
-1.0.0
-
 ### Installation
 
 Install the dependencies
